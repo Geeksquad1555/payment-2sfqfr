@@ -1,8 +1,10 @@
 16-Sep-2026
 
-<!-- notify 1/2 · 8mM1KGM4 -->
-## Notification 1/2
-Round: Round 1
-To: moosylvr@yahoo.com, mootay3@yahoo.com
-At: 2026-09-16 17:37:36
-Id: 8mM1KGM4
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: moothie13@yahoo.com, mootiy@yahoo.com
+At: 2026-09-16 17:37:44
+Id: 90woMyws
